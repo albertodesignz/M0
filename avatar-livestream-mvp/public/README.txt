@@ -1,0 +1,1 @@
+Place your default VRM avatar at public/models/default.vrm (optional). The app will fallback to a cube if it can't load a VRM.

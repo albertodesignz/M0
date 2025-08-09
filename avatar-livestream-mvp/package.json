@@ -1,0 +1,26 @@
+{
+  "name": "avatar-livestream-mvp",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "three": "^0.169.0",
+    "@pixiv/three-vrm": "^3.2.3",
+    "livekit-client": "^2.5.2",
+    "zustand": "^4.5.2",
+    "livekit-server-sdk": "^2.4.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4",
+    "@types/node": "^20.12.12",
+    "@types/react": "^18.2.66"
+  }
+}
